@@ -1,0 +1,443 @@
+<p>&lt;!DOCTYPE html&gt;</p>
+
+<p>&lt;html lang=&quot;en&quot;&gt;</p>
+
+<p>&lt;head&gt;</p>
+
+<p>&lt;meta charset=&quot;utf-8&quot;&gt;</p>
+
+<p>&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;</p>
+
+<p>&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0, user-scalable=no, viewport-fit=cover&quot;&gt;</p>
+
+<p>&lt;link rel=&quot;icon&quot; type=&quot;image/png&quot; href=&quot;/img/icon.png&quot;&gt;</p>
+
+<p>&lt;link rel=&quot;stylesheet&quot; href=&quot;https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css&quot; integrity=&quot;sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS&quot; crossorigin=&quot;anonymous&quot;&gt;</p>
+
+<p>&lt;link rel=&quot;stylesheet&quot; href=&quot;https://use.fontawesome.com/releases/v5.6.1/css/all.css&quot; integrity=&quot;sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm</p>
+
+<p>&lt;link href=&quot;/css/main.css?c=3&quot; rel=&quot;stylesheet&quot;&gt;</p>
+
+<p>&lt;title&gt;Chimera: Your device, your way.&lt;/title&gt;</p>
+
+<p>&lt;meta property=&quot;og:title&quot; content=&quot;Chimera&quot;&gt;</p>
+
+<p>&lt;meta name=&quot;twitter:title&quot; content=&quot;Chimera&quot;&gt;</p>
+
+<p>&lt;meta property=&quot;og:image&quot; content=&quot;https://chimera.sh/img/icon.png&quot;&gt;</p>
+
+<p>&lt;meta property=&quot;twitter:card&quot; content=&quot;summary&quot;&gt;</p>
+
+<p>&lt;meta name=&quot;twitter:url&quot; content=&quot;https://chimera.sh/&quot; /&gt;</p>
+
+<p>&lt;meta name=&quot;robots&quot; content=&quot;index,follow&quot; /&gt;</p>
+
+<p>&lt;meta property=&quot;og:description&quot; content=&quot;Introducing Chimera, the innovative new jailbreak from the Electra Team.&quot;&gt;</p>
+
+<p>&lt;meta name=&quot;description&quot; content=&quot;Introducing Chimera, the innovative new jailbreak from the Electra Team.&quot; /&gt;</p>
+
+<p>&lt;link href=&quot;/css/home.css&quot; rel=&quot;stylesheet&quot; /&gt;</p>
+
+<p>&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot; type=&quot;165064f58a555b26766f0c78-text/javascript&quot;&gt;&lt;/script&gt;</p>
+
+<p>&lt;script type=&quot;165064f58a555b26766f0c78-text/javascript&quot;&gt;</p>
+
+<p> (adsbygoogle = window.adsbygoogle </p>
+
+<p> google<em>ad</em>client: &quot;ca-pub-5893310803057886&quot;,</p>
+
+<p> enable<em>page</em>level<em>ads: true
+</em></p>
+
+<p> });</p>
+
+<p>&lt;/script&gt;</p>
+
+<p>&lt;/head&gt;</p>
+
+<p>&lt;body&gt;</p>
+
+<p>&lt;div id=&quot;content&quot;&gt;</p>
+
+<p>&lt;main class=&quot;home&quot;&gt;</p>
+
+<p>&lt;div class=&quot;jumbotron&quot;&gt;</p>
+
+<p>&lt;h1&gt;Chimera&lt;/h1&gt;</p>
+
+<p>&lt;h2&gt;Your device, &lt;br class=&quot;d-block d-lg-none d-xl-none&quot;&gt;your way.&lt;/h2&gt;</p>
+
+<p>&lt;p&gt;&lt;strong&gt;All&lt;/strong&gt; devices, iOS 12 — 12.5.3&lt;/p&gt;</p>
+
+<p>&lt;div class=&quot;call-to-action&quot;&gt;</p>
+
+<p>&lt;div class=&quot;btncontainer&quot;&gt;</p>
+
+<p>&lt;div class=&quot;dropmenu&quot;&gt;</p>
+
+<p>&lt;a class=&quot;btn&quot; href=&quot;#&quot;&gt;Download Chimera 1.6.2&lt;br&gt;&lt;small&gt;iOS 12 — 12.5.3&lt;/small&gt;&lt;/a&gt;</p>
+
+<p>&lt;div class=&quot;dropmenu-content&quot;&gt;</p>
+
+<p>&lt;a href=&quot;https://github.com/coolstar/electra-ipas/raw/master/chimera/1.6.2-12.2-12.5.ipa&quot;&gt;iOS 12.2 - 12.5.3 &lt;small&gt;30 MB&lt;/small&gt;&lt;/a&gt;</p>
+
+<p>&lt;a href=&quot;https://github.com/coolstar/electra-ipas/raw/master/chimera/1.6.2-12.0-12.5.ipa&quot;&gt;iOS 12.0 - 12.1.4 &lt;small&gt;80 MB&lt;/small&gt;&lt;/a&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;a class=&quot;btn&quot; href=&quot;https://github.com/coolstar/electra-ipas/raw/master/chimera/tv/1.3.9.ipa&quot;&gt;Download ChimeraTV 1.3.9&lt;br&gt;&lt;small&gt;tvOS 12 — 12.2 and 12.4&lt;/small&gt;&lt;/a&gt;&lt;br&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>Note: Only Nonce setter available on 12.1.2 - 12.4.1 on A12&lt;br&gt;</p>
+
+<p>Note: 12.1.3 - 12.5.3 only supported on A7 - A11 devices. All devices supported on 12.0 - 12.1.2</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;img src=&quot;/img/jumbotron.png&quot; /&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;div class=&quot;section feature alt&quot;&gt;</p>
+
+<p>&lt;div&gt;</p>
+
+<p>&lt;div&gt;</p>
+
+<p>&lt;div class=&quot;icon-mock&quot;&gt;&lt;span&gt;A12&lt;/span&gt;&lt;/div&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;div&gt;</p>
+
+<p>&lt;h2&gt;Full-fledged&lt;/h2&gt;</p>
+
+<p>&lt;p&gt;Chimera is the first true iOS 12 jailbreak to not only feature a CoreTrust bypass so that binaries don&#39;t need to be resigned, but to also support A12 devices, including iPhone Xs, iPhone Xr, and the newest iPads. Chimera doesn&#39;t tamper with user files, making it safer than alternatives.&lt;/p&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;div class=&quot;section feature&quot;&gt;</p>
+
+<p>&lt;div&gt;</p>
+
+<p>&lt;div&gt;</p>
+
+<p>&lt;i class=&quot;fas fa-stopwatch&quot;&gt;&lt;/i&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;div&gt;</p>
+
+<p>&lt;h2&gt;Stable&lt;/h2&gt;</p>
+
+<p>&lt;p&gt;We&#39;ve rewritten Chimera from the ground up to ensure that there&#39;s no battery drain, freezing, or crashing. There&#39;s simply nothing else like it, and we can&#39;t wait for you to see for yourself.&lt;/p&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;div class=&quot;section feature alt&quot;&gt;</p>
+
+<p>&lt;div&gt;</p>
+
+<p>&lt;div&gt;</p>
+
+<p>&lt;i class=&quot;fas fa-calendar-day&quot;&gt;&lt;/i&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;div&gt;</p>
+
+<p>&lt;h2&gt;Modern&lt;/h2&gt;</p>
+
+<p>&lt;p&gt;Chimera comes with a modern package manager, &lt;a href=&quot;https://getsileo.app&quot; target=&quot;<em>blank&quot;&gt;Sileo&lt;/a&gt;, featuring a UI made to fit iOS, and packed full of features and speed enhancements to make installing packages a breeze. Rather than sticking to tools built decades ago, it ships with modern system tools designed to take advantage wherever possible.&lt;/p&gt;
+</em></p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;div class=&quot;section&quot;&gt;</p>
+
+<p>&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot; type=&quot;165064f58a555b26766f0c78-text/javascript&quot;&gt;&lt;/script&gt;</p>
+
+<p>&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:inline-block;width:970px;height:250px&quot; data-ad-client=&quot;ca-pub-5893310803057886&quot; data-ad-slot=&quot;2653354083&quot;&gt;&lt;/ins&gt;</p>
+
+<p>&lt;script type=&quot;165064f58a555b26766f0c78-text/javascript&quot;&gt;</p>
+
+<p>(adsbygoogle = window.adsbygoogle </p>
+
+<p>&lt;/script&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;div id=&quot;team&quot; class=&quot;section&quot;&gt;</p>
+
+<p>&lt;div&gt;</p>
+
+<p>&lt;h2&gt;Credits&lt;/h2&gt;</p>
+
+<p>&lt;div class=&quot;members&quot;&gt;</p>
+
+<p>&lt;div data-aos=&quot;zoom-out&quot; data-aos-duration=&quot;600&quot;&gt;</p>
+
+<p>&lt;a href=&quot;https://www.twitter.com/CStar<em>OW&quot; target=&quot;</em>blank&quot;&gt;</p>
+
+<p>&lt;img src=&quot;https://github.com/coolstar.png&quot; alt=&quot;Avatar of CoolStar&quot;&gt;&lt;/img&gt;</p>
+
+<p>&lt;/a&gt;</p>
+
+<p>&lt;h3&gt;CoolStar&lt;/h3&gt;</p>
+
+<p>&lt;p&gt;Lead Developer&lt;/p&gt;</p>
+
+<p>&lt;a class=&quot;social-icon&quot; href=&quot;https://www.twitter.com/CStar<em>OW&quot; target=&quot;</em>blank&quot;&gt;</p>
+
+<p>&lt;i class=&quot;fab fa-twitter&quot;&gt;&lt;/i&gt;</p>
+
+<p>&lt;/a&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;div data-aos=&quot;zoom-out&quot; data-aos-duration=&quot;600&quot;&gt;</p>
+
+<p>&lt;a href=&quot;https://www.twitter.com/jamiebishop123&quot; target=&quot;<em>blank&quot;&gt;
+</em></p>
+
+<p>&lt;img src=&quot;https://github.com/nullpixel.png&quot; alt=&quot;Avatar of Jamie Bishop&quot;&gt;&lt;/img&gt;</p>
+
+<p>&lt;/a&gt;</p>
+
+<p>&lt;h3&gt;Jamie Bishop&lt;/h3&gt;</p>
+
+<p>&lt;p&gt;Developer&lt;/p&gt;</p>
+
+<p>&lt;a class=&quot;social-icon&quot; href=&quot;https://www.twitter.com/jamiebishop123&quot; target=&quot;<em>blank&quot;&gt;
+</em></p>
+
+<p>&lt;i class=&quot;fab fa-twitter&quot;&gt;&lt;/i&gt;</p>
+
+<p>&lt;/a&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;div data-aos=&quot;zoom-out&quot; data-aos-duration=&quot;600&quot;&gt;</p>
+
+<p>&lt;a href=&quot;https://www.twitter.com/tri<strong><em>angle&quot; target=&quot;</em>blank&quot;&gt;
+</strong></p>
+
+<p>&lt;img src=&quot;https://github.com/summertriangle-dev.png&quot; alt=&quot;Avatar of tri&#39;angle&quot;&gt;&lt;/img&gt;</p>
+
+<p>&lt;/a&gt;</p>
+
+<p>&lt;h3&gt;tri&#39;angle&lt;/h3&gt;</p>
+
+<p>&lt;p&gt;Developer&lt;/p&gt;</p>
+
+<p>&lt;a class=&quot;social-icon&quot; href=&quot;https://www.twitter.com/tri<strong><em>angle&quot; target=&quot;</em>blank&quot;&gt;
+</strong></p>
+
+<p>&lt;i class=&quot;fab fa-twitter&quot;&gt;&lt;/i&gt;</p>
+
+<p>&lt;/a&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;div data-aos=&quot;zoom-out&quot; data-aos-duration=&quot;600&quot;&gt;</p>
+
+<p>&lt;a href=&quot;https://www.twitter.com/tihmstar&quot; target=&quot;<em>blank&quot;&gt;
+</em></p>
+
+<p>&lt;img src=&quot;https://github.com/tihmstar.png&quot; alt=&quot;Avatar of tihmstar&quot;&gt;&lt;/img&gt;</p>
+
+<p>&lt;/a&gt;</p>
+
+<p>&lt;h3&gt;tihmstar&lt;/h3&gt;</p>
+
+<p>&lt;p&gt;Developer&lt;/p&gt;</p>
+
+<p>&lt;a class=&quot;social-icon&quot; href=&quot;https://www.twitter.com/tihmstar&quot; target=&quot;<em>blank&quot;&gt;
+</em></p>
+
+<p>&lt;i class=&quot;fab fa-twitter&quot;&gt;&lt;/i&gt;</p>
+
+<p>&lt;/a&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;div data-aos=&quot;zoom-out&quot; data-aos-duration=&quot;600&quot;&gt;</p>
+
+<p>&lt;a href=&quot;https://www.twitter.com/<em>bazad&quot; target=&quot;</em>blank&quot;&gt;</p>
+
+<p>&lt;img src=&quot;https://github.com/bazad.png&quot; alt=&quot;Avatar of Brandon Azad&quot;&gt;&lt;/img&gt;</p>
+
+<p>&lt;/a&gt;</p>
+
+<p>&lt;h3&gt;Brandon Azad&lt;/h3&gt;</p>
+
+<p>&lt;p&gt;Exploit Developer&lt;/p&gt;</p>
+
+<p>&lt;a class=&quot;social-icon&quot; href=&quot;https://www.twitter.com/<em>bazad&quot; target=&quot;</em>blank&quot;&gt;</p>
+
+<p>&lt;i class=&quot;fab fa-twitter&quot;&gt;&lt;/i&gt;</p>
+
+<p> &lt;/a&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;div data-aos=&quot;zoom-out&quot; data-aos-duration=&quot;600&quot;&gt;</p>
+
+<p>&lt;a href=&quot;https://www.twitter.com/iBSparkes&quot; target=&quot;<em>blank&quot;&gt;
+</em></p>
+
+<p>&lt;img src=&quot;https://github.com/PsychoTea.png&quot; alt=&quot;Avatar of PsychoTea&quot;&gt;&lt;/img&gt;</p>
+
+<p>&lt;/a&gt;</p>
+
+<p>&lt;h3&gt;PsychoTea&lt;/h3&gt;</p>
+
+<p>&lt;p&gt;Exploit Developer&lt;/p&gt;</p>
+
+<p>&lt;a class=&quot;social-icon&quot; href=&quot;https://www.twitter.com/iBSparkes&quot; target=&quot;<em>blank&quot;&gt;
+</em></p>
+
+<p>&lt;i class=&quot;fab fa-twitter&quot;&gt;&lt;/i&gt;</p>
+
+<p>&lt;/a&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;div data-aos=&quot;zoom-out&quot; data-aos-duration=&quot;600&quot;&gt;</p>
+
+<p>&lt;a href=&quot;https://www.twitter.com/NedWilliamson&quot; target=&quot;<em>blank&quot;&gt;
+</em></p>
+
+<p>&lt;img src=&quot;https://github.com/nedwill.png&quot; alt=&quot;Avatar of nedwill&quot;&gt;&lt;/img&gt;</p>
+
+<p>&lt;/a&gt;</p>
+
+<p>&lt;h3&gt;nedwill&lt;/h3&gt;</p>
+
+<p>&lt;p&gt;Exploit Developer&lt;/p&gt;</p>
+
+<p>&lt;a class=&quot;social-icon&quot; href=&quot;https://www.twitter.com/NedWilliamson&quot; target=&quot;<em>blank&quot;&gt;
+</em></p>
+
+<p>&lt;i class=&quot;fab fa-twitter&quot;&gt;&lt;/i&gt;</p>
+
+<p>&lt;/a&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;div data-aos=&quot;zoom-out&quot; data-aos-duration=&quot;600&quot;&gt;</p>
+
+<p>&lt;a href=&quot;https://www.twitter.com/umanghere&quot; target=&quot;<em>blank&quot;&gt;
+</em></p>
+
+<p>&lt;img src=&quot;https://github.com/ur0.png&quot; alt=&quot;Avatar of Umang Raghuvanshi&quot;&gt;&lt;/img&gt;</p>
+
+<p>&lt;/a&gt;</p>
+
+<p>&lt;h3&gt;Umang Raghuvanshi&lt;/h3&gt;</p>
+
+<p>&lt;p&gt;Exploit Developer&lt;/p&gt;</p>
+
+<p>&lt;a class=&quot;social-icon&quot; href=&quot;https://www.twitter.com/umanghere&quot; target=&quot;<em>blank&quot;&gt;
+</em></p>
+
+<p>&lt;i class=&quot;fab fa-twitter&quot;&gt;&lt;/i&gt;</p>
+
+<p>&lt;/a&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;div data-aos=&quot;zoom-out&quot; data-aos-duration=&quot;600&quot;&gt;</p>
+
+<p>&lt;a href=&quot;https://www.twitter.com/aydenpanhuyzen&quot; target=&quot;<em>blank&quot;&gt;
+</em></p>
+
+<p>&lt;img src=&quot;https://github.com/aydenp.png&quot; alt=&quot;Avatar of Ayden Panhuyzen&quot;&gt;&lt;/img&gt;</p>
+
+<p>&lt;/a&gt;</p>
+
+<p>&lt;h3&gt;Ayden Panhuyzen&lt;/h3&gt;</p>
+
+<p>&lt;p&gt;UI Developer, Designer&lt;/p&gt;</p>
+
+<p>&lt;a class=&quot;social-icon&quot; href=&quot;https://www.twitter.com/aydenpanhuyzen&quot; target=&quot;<em>blank&quot;&gt;
+</em></p>
+
+<p>&lt;i class=&quot;fab fa-twitter&quot;&gt;&lt;/i&gt;</p>
+
+<p>&lt;/a&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;div data-aos=&quot;zoom-out&quot; data-aos-duration=&quot;600&quot;&gt;</p>
+
+<p>&lt;a href=&quot;https://www.twitter.com/aesign<em>&quot; target=&quot;</em>blank&quot;&gt;</p>
+
+<p>&lt;img src=&quot;https://github.com/aesign.png&quot; alt=&quot;Avatar of aesign&quot;&gt;&lt;/img&gt;</p>
+
+<p>&lt;/a&gt;</p>
+
+<p>&lt;h3&gt;aesign&lt;/h3&gt;</p>
+
+<p>&lt;p&gt;Designer&lt;/p&gt;</p>
+
+<p>&lt;a class=&quot;social-icon&quot; href=&quot;https://www.twitter.com/aesign<em>&quot; target=&quot;</em>blank&quot;&gt;</p>
+
+<p>&lt;i class=&quot;fab fa-twitter&quot;&gt;&lt;/i&gt;</p>
+
+<p>&lt;/a&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;/div&gt;&lt;br&gt;</p>
+
+<p>&lt;span class=&quot;font-size: 8pt;&quot;&gt;Special thanks to 0x7ff, the libimobiledevice project and Ahmed Aldeab for the roles they played in bringing Chimera to life.&lt;/span&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;/main&gt;</p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;footer&gt;</p>
+
+<p>&lt;ul class=&quot;section links&quot;&gt;</p>
+
+<p>&lt;li&gt;&lt;a href=&quot;/&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;</p>
+
+<p>&lt;/ul&gt;</p>
+
+<p>&lt;div class=&quot;section&quot;&gt;</p>
+
+<p>&lt;p&gt;&amp;copy; Electra Team&lt;/p&gt;</p>
+
+<p>&lt;p class=&quot;credit&quot;&gt;Designed &amp; Developed by &lt;a href=&quot;https://www.twitter.com/Electra<em>Team&quot;&gt;the Electra Team&lt;/a&gt;.&lt;/p&gt;
+</em></p>
+
+<p>&lt;/div&gt;</p>
+
+<p>&lt;/footer&gt;</p>
+
+<p>&lt;script src=&quot;//code.jquery.com/jquery.min.js&quot; type=&quot;165064f58a555b26766f0c78-text/javascript&quot;&gt;&lt;/script&gt;</p>
+
+<p>&lt;script src=&quot;https://ajax.cloudflare.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js&quot; data-cf-settings=&quot;165064f58a555b26766f0c78-|49&quot; defer=&quot;&quot;&gt;&lt;/script&gt;&lt;/body&gt;</p>
+
+<p>&lt;/html&gt;</p>
+

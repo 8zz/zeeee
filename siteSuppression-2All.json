@@ -1,0 +1,48 @@
+{
+  "version": "1.0.4",
+  "siteSuppressions": [
+    {
+      "terms": [
+        "amazon.com"
+      ],
+      "title": "Amazon Home",
+      "results": [
+        {
+          "url": "https://www.amazon.com/gp/browse.html?node=172282&ref_=nav_em_T1_0_4_13_11__elec_hub&tag=cakebrowser07-20",
+          "title": "Amazon Electronics",
+          "showAdBadge": false,
+          "adType": "affiliate",
+          "disableOpenInApp": false
+        },
+        {
+          "url": "https://www.amazon.com/Audible-Free-Trial-Digital-Membership/dp/B00NB86OYE/?ref_=assoc_tag_ph_1485906643682&_encoding=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=cakebrowser07-20&linkId=fc06d82c688b9dfbf6e3447217a618b6",
+          "title": "Audible",
+          "showAdBadge": true,
+          "adType": "bounty",
+          "disableOpenInApp": false
+        },
+        {
+          "url": "https://www.amazon.com/gp/browse.html?node=3760911&ref_=nav_em_T1_0_4_18_1__bty&tag=cakebrowser07-20",
+          "title": "Amazon Beauty",
+          "showAdBadge": false,
+          "adType": "affiliate",
+          "disableOpenInApp": false
+        },
+        {
+          "url": "https://www.amazon.com/gp/browse.html?node=14807110011&ref_=nav_em_T1_0_4_12_8_tbyb_site_directory_tbyb_l0&tag=cakebrowser07-20",
+          "title": "Prime Wardrobe",
+          "showAdBadge": true,
+          "adType": "affiliate",
+          "disableOpenInApp": false
+        },
+        {
+          "url": "https://www.amazon.com/gp/dmusic/promotions/AmazonMusicUnlimited?ref_=assoc_tag_ph_1483579440886&_encoding=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=cakebrowser07-20&linkId=50968dda3bed50bab250dd6a21714005",
+          "title": "Amazon Music",
+          "showAdBadge": true,
+          "adType": "bounty",
+          "disableOpenInApp": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "autosuggestProvider": "google",
+  "adMarketplaceAutosuggestEnabled": true,
+  "version": "1.0.21",
+  "gamezopSliceId": 259,
+  "killGamezopBuildNumbers": [
+    175
+  ],
+  "doOnboardingFeedABTest": false,
+  "indexStreamPercentage": 1.0,
+  "trackToKeen": true,
+  "trackToKeeniOS": false,
+  "trackToKeenAndroid": false
+}
